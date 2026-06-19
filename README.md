@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 3D VTON project<br><br>👨‍💻 All of my projects are available at https://github.com/sohamgudewar<br><br>💬 Ask me about ML, backend, GenAI, Philosophy<br><br>📫 How to reach me sohamgudewar10@gmail.com
+🔭 I’m currently working on 3D VTON project<br><br>👨‍💻 All of my projects are available at https://github.com/sohamgudewar<br><br>💬 Ask me about ML, backend, GenAI<br><br>📫 How to reach me sohamgudewar10@gmail.com
 
 
 ## 🌐 Socials:
