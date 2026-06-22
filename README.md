@@ -4,7 +4,7 @@
 
 2026 B.Tech Graduate in Artificial Intelligence & Data Science — AISSMS Institute of Information Technology, Pune (SPPU)
 
-Research collaborator with **IIT Madras** on 3D Virtual Try-On (SMPL-X) · Paper under review for publication · **National-level gymnast**
+Research collaborator with **IIT Madras** on 3D Virtual Try-On (SMPL-X) · Paper under review for publication 
 
 ---
 
