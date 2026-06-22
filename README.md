@@ -1,21 +1,115 @@
-# 💫 About Me:
-🔭 I’m currently working on 3D VTON project<br><br>👨‍💻 All of my projects are available at https://github.com/sohamgudewar<br><br>💬 Ask me about ML, backend, GenAI<br><br>📫 How to reach me sohamgudewar10@gmail.com
+# Hi, I'm Soham Gudewar 👋
 
+**Agentic AI Engineer · LLM Systems · FastAPI · RAG Pipelines**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sohamgudewar_1510) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohamgudewar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sohamgudewar10)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohamgudewar10@gmail.com) 
+2026 B.Tech Graduate in Artificial Intelligence & Data Science — AISSMS Institute of Information Technology, Pune (SPPU)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sohamgudewar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sohamgudewar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sohamgudewar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sohamgudewar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Research collaborator with **IIT Madras** on 3D Virtual Try-On (SMPL-X) · Paper under review for publication · **National-level gymnast**
 
 ---
-[![](https://komarev.com/ghpvc/?username=sohamgudewar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Build
+
+- **Agentic AI systems** — multi-step LLM workflows using LangChain, LangGraph, and MCP
+- **RAG pipelines** — semantic search, vector retrieval, embedding optimisation with ChromaDB
+- **Production APIs** — FastAPI backends with PostgreSQL, JWT auth, Docker
+- **LLM integrations** — Claude API, Ollama (Llama 3, Mistral, Phi-3), local and cloud LLMs
+
+---
+
+## 🛠️ Tech Stack
+
+```
+LLM & Agentic AI    LangChain · LangGraph · RAG · Ollama · MCP · Prompt Engineering · ChromaDB
+AI / ML             PyTorch · Scikit-learn · Deep Learning · NLP · Computer Vision
+Backend             FastAPI · Flask · REST APIs · JWT · Docker · PostgreSQL · SQLAlchemy
+Automation          n8n · Zapier · LangGraph workflows
+Cloud               Microsoft Azure (AZ900 certified)
+Languages           Python · SQL · C · C++
+```
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 [AI-DocParser](https://github.com/sohamgudewar/AI-DocParser)
+Agentic document intelligence pipeline using LangChain and LangGraph. Multi-step reasoning with sub-agent coordination for structured information extraction from unstructured enterprise documents. Includes fallback logic and output validation layers.
+
+`Python` `LangChain` `LangGraph` `MCP` `RAG` `Information Extraction`
+
+---
+
+### 📄 [ATS Resume Analyser](https://github.com/sohamgudewar/ATS-Resume-Analyser)
+Full RAG pipeline using LangChain, ChromaDB, and Ollama (local LLMs — no OpenAI dependency). Computes ATS scores, detects skill gaps, and generates role-specific improvement suggestions. 15+ prompt iterations for consistent structured outputs.
+
+`Python` `LangChain` `RAG` `ChromaDB` `Ollama` `Prompt Engineering` `Streamlit`
+
+---
+
+### 🌾 [FarmConnect](https://github.com/sohamgudewar/FarmConnect)
+Real-time crop marketplace backend for Indian farmers — buy, sell, trade, and export with a live demand board. Built for AgriHackathon. Designed for high-concurrency PostgreSQL queries.
+
+`Python` `FastAPI` `PostgreSQL` `Docker` `REST APIs`
+
+---
+
+### 🏥 [Hospital Management API](https://github.com/sohamgudewar/FastAPI)
+Production-grade RESTful API for hospital operations with JWT authentication, OAuth2, and HIPAA-inspired secure design. Integrates an ML model for insurance premium prediction.
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT` `Scikit-learn` `Docker`
+
+---
+
+### 🔗 [LangChain Modular Agent Demo](https://github.com/sohamgudewar/langchain-mod)
+Modular LLM agent framework demonstrating tool-use, memory management, and external data source integration. Production-ready LangChain patterns for agentic applications.
+
+`Python` `LangChain` `Ollama` `Tool Use` `Agent Memory`
+
+---
+
+### 🌱 [KrishiNetra](https://github.com/sohamgudewar/KrishiNetra)
+AgriHackathon project — AI-powered agricultural intelligence platform.
+
+`JavaScript` `AI` `AgriTech`
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Model Context Protocol: Advanced Topics | Anthropic | 2026 |
+| Building with the Claude API | Anthropic | 2026 |
+| AZ900: Microsoft Azure Fundamentals | Microsoft | 2026 |
+| Google Data Analytics Professional Certificate | Coursera/Google | 2025 |
+
+---
+
+## 🔬 Research
+
+**3D Virtual Try-On System (VTON) using SMPL-X** — ongoing collaboration with IIT Madras
+- Parametric human body modelling using SMPL-X
+- Physics-based cloth deformation and garment fitting pipeline
+- Trained on high-VRAM GPU infrastructure
+- 📄 Research paper submitted for publication
+
+---
+
+## 📊 GitHub Stats
+
+![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamgudewar&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamgudewar&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-gudewar-9861561ab)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sohamgudewar10@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/sohamgudewar)
+
+📍 Pune, India · 🕐 Available immediately · 💼 Open to AI Engineer / LLM Engineer / Agentic AI roles
+
+---
+
+*"A national-level gymnast who builds AI systems — discipline and precision in both."*
