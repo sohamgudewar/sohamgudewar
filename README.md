@@ -11,8 +11,8 @@ Research collaborator with **IIT Madras** on 3D Virtual Try-On (SMPL-X) · Paper
 ## 🚀 What I Build
 
 - **Agentic AI systems** — multi-step LLM workflows using LangChain, LangGraph, and MCP
-- **RAG pipelines** — semantic search, vector retrieval, embedding optimisation with ChromaDB
-- **Production APIs** — FastAPI backends with PostgreSQL, JWT auth, Docker
+- **RAG pipelines** — semantic search, vector retrieval, embedding optimisation with VectorDB
+- **Production APIs** — FastAPI backends with PostgreSQL, JWT auth, OAuth 2.0, Docker
 - **LLM integrations** — Claude API, Ollama (Llama 3, Mistral, Phi-3), local and cloud LLMs
 
 ---
@@ -24,8 +24,8 @@ LLM & Agentic AI    LangChain · LangGraph · RAG · Ollama · MCP · Prompt Eng
 AI / ML             PyTorch · Scikit-learn · Deep Learning · NLP · Computer Vision
 Backend             FastAPI · Flask · REST APIs · JWT · Docker · PostgreSQL · SQLAlchemy
 Automation          n8n · Zapier · LangGraph workflows
-Cloud               Microsoft Azure (AZ900 certified)
-Languages           Python · SQL · C · C++
+Cloud               Microsoft Azure (AZ900 certified), AWS Bedrock
+Languages           Python · SQL · C · C++ · JavaScript
 ```
 
 ---
