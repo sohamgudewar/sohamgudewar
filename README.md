@@ -109,7 +109,3 @@ AgriHackathon project — AI-powered agricultural intelligence platform.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/sohamgudewar)
 
 📍 Pune, India · 🕐 Available immediately · 💼 Open to AI Engineer / LLM Engineer / Agentic AI roles
-
----
-
-*"A national-level gymnast who builds AI systems — discipline and precision in both."*
